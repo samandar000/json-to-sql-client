@@ -1,0 +1,2793 @@
+{
+    "apple": {
+        "1": {
+            "price": "14 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2b44928ae11fb9384c4cf38708677c482022091716063124908j3O8hyVfPs.jpg.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "2": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092114241486833ApwaRWowaz.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "3": {
+            "price": "14 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/9fc3d7152ba9336a670e36d0ed79bc432022091716490238757bctHYCYuLK.jpg.webp",
+            "color": "Black",
+            "ram": "128",
+            "memory": "lightning",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "4": {
+            "price": "10 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c74d97b01eae257e44aa9d5bade97baf2022091817334486024j7PzagcDOp.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "5": {
+            "price": "13 788 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "6": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "7": {
+            "price": "15 018 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "8": {
+            "price": "16 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/bd4c9ab730f5513206b999ec0d90d1fb20220917181328379941LQjLPtbjW.jpg.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "9": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092513153735799p09h5anvjA.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "10": {
+            "price": "10 683 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022042611533862598mfOWxqhgHU.jpg.webp",
+            "color": "Green",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "11": {
+            "price": "17 046 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd320220426114346688417ymxK45oVx.jpg.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "1",
+            "brend": "13 Pro max",
+            "model": "Apple"
+        },
+        "12": {
+            "price": "11 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1ecfb463472ec9115b10c292ef8bc9862022102214072219914AbhWVckhYe.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "13": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/698d51a19d8a121ce581499d7b7016682022042612131514061Vt2ceU6qs6.jpg.webp",
+            "color": "Green",
+            "ram": "4",
+            "memory": "512",
+            "brend": "13",
+            "model": "Apple"
+        },
+        "14": {
+            "price": "11 498 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/698d51a19d8a121ce581499d7b7016682022042612095353237m9d0tZrKM3.jpg.webp",
+            "color": "Green",
+            "ram": "4",
+            "memory": "256",
+            "brend": "13",
+            "model": "Apple"
+        },
+        "15": {
+            "price": "13 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/71a3cb155f8dc89bf3d03652882199362022102210535082860uuTOHrPSOG.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "16": {
+            "price": "13 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5c04925674920eb58467fb52ce4ef7282022102210021230765A2SsqHvKKS.png.webp",
+            "color": "Midnight",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 256GB",
+            "model": "Apple"
+        },
+        "17": {
+            "price": "13 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/303ed4c69846ab36c2904d3ba857305020221022084415367957yQIEGSaGB.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "18": {
+            "price": "13 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2f37d10131f2a483a8dd005b3d14b0d92022102209114983750l2mScVEXer.png.webp",
+            "color": "Starlight",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "19": {
+            "price": "13 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/30ef30b64204a3088a26bc2e6ecf760220221022090020681866cMvuthhVd.jpg.webp",
+            "color": "Red",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "20": {
+            "price": "23 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092116292692242NTcHaV6ojr.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "21": {
+            "price": "15 944 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/64de65f3351ae5fc89468ccbc48419612022032314345647190LhIcIKY95C.png.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "22": {
+            "price": "13 788 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/64de65f3351ae5fc89468ccbc48419612022032314224916367xNIcqb2lZ4.png.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "23": {
+            "price": "15 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092111242957005NBRH3spsrv.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "24": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cfecdb276f634854f3ef915e2e980c312022091811532981980PdEXHNSzYR.png.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "128",
+            "brend": "14 Pro max",
+            "model": "Apple"
+        },
+        "25": {
+            "price": "15 944 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "26": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092114121356378sGrQ9oVwR7.png.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "27": {
+            "price": "10 683 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/80858ac7ae708b5f61eb5924f90ba9452021100212332397478k7LJQXZfJ9.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "28": {
+            "price": "19 231 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf2021092513211750358fU170TOm7p.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "29": {
+            "price": "19 231 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092513225313469X5TB1mo59C.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "30": {
+            "price": "10 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cb16497057497afc1e3e0f5600d03c712021100214132795405NNMku5x59s.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "31": {
+            "price": "10 683 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb2021100212321717765gK8CF9kz79.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "32": {
+            "price": "17 010 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/64de65f3351ae5fc89468ccbc48419612022032314383292499g0QGWmLLw0.png.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "33": {
+            "price": "15 466 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092513163326603CYFd0bpwFv.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "34": {
+            "price": "15 018 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/64de65f3351ae5fc89468ccbc48419612022032314265763058NpxIlschTm.png.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "35": {
+            "price": "15 669 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092513180599766SMV7Uk4eTV.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "36": {
+            "price": "13 677 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092519312844998HDjiv1d6XD.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "37": {
+            "price": "13 788 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092519330416264okSNOQ9v7n.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "38": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/64de65f3351ae5fc89468ccbc48419612022032314315524832Kg213r8DXo.png.webp",
+            "color": "Green",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "39": {
+            "price": "11 498 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb2021100212321717765gK8CF9kz79.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "40": {
+            "price": "20 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d09bf41544a3365a46c9077ebb5e35c32022092115363864293DmJkvQhLLN.png.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "41": {
+            "price": "19 231 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "42": {
+            "price": "10 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb2021100214115524133iNsrT6XdfS.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "43": {
+            "price": "20 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092115462968836Gw9IFQGKKH.png.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "44": {
+            "price": "8 371 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/567971b23d7bf73b3a849483a34ad7962021061822145032635seaujTmNv3.jpg.webp",
+            "color": "White",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 12 mini",
+            "model": "Apple"
+        },
+        "45": {
+            "price": "13 788 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf2021092519321729193lgKqxdv4mr.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "46": {
+            "price": "10 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dcad45fc6dbfc4384c74c0be2b0ff63920211002122722767809L5NJywIGq.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "47": {
+            "price": "10 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100214124274685JbAk1XUujw.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "48": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2ec6ead8713e270c91465a5c5842f30e2021092513134217867XOa0bjDGg4.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "49": {
+            "price": "16 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc843620220921144501536454LlVuuGzES.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "50": {
+            "price": "10 683 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100212351751921b6rIixHIw7.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "51": {
+            "price": "18 010 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf2021092513184679158wPfhwpHd17.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "52": {
+            "price": "15 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/37a749d808e46495a8da1e5352d03cae2022091717591228379eZjqsyYEx7.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "53": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb2021100214234518979lQ1ChbZ0K5.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "54": {
+            "price": "10 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc2021100214141435001vuh1mWSZo1.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "55": {
+            "price": "15 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/85d8ce590ad8981ca2c8286f79f599542022091812093269964nFtrLKlVuV.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "56": {
+            "price": "17 989 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a0520210925132842804199otuDgTXto.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "57": {
+            "price": "19 231 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092513220520713RXF4iK0ePY.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "58": {
+            "price": "15 018 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf20210925193527795569SOfgXGx8E.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "59": {
+            "price": "12 002 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb20211002141857653381AIEOooD95.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "60": {
+            "price": "15 018 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092519341582125oNZMAnlATd.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "61": {
+            "price": "17 989 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf2021092513262766751fQkEQlDWad.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "62": {
+            "price": "23 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092116213268856Y6s1lBKp8i.png.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "63": {
+            "price": "15 018 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092519361673791dXS9JnIqjr.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "64": {
+            "price": "18 010 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "65": {
+            "price": "17 633 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092810554348996cO5M5ZyWxB.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "66": {
+            "price": "17 989 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a4af2e10031815b11007e023441fc1462021092513280443421mtuEMEBzrX.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "67": {
+            "price": "12 002 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dcad45fc6dbfc4384c74c0be2b0ff6392021100214171449361YN4GAm1VlX.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "68": {
+            "price": "17 633 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092810572114209iXnoUaFhVN.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "69": {
+            "price": "12 002 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cb16497057497afc1e3e0f5600d03c712021100214194258145xPXuVGsJI4.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "70": {
+            "price": "18 010 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8a663cfc674567241222b5d7fa290a052021092513201735247qznlzNBgyv.jpg.webp",
+            "color": "Graphite",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "71": {
+            "price": "12 002 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100214124274685JbAk1XUujw.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "72": {
+            "price": "17 633 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b17ee773cb3fb3ef3baac04b4979dbdf2021092810563451465kGZmBLMZ9M.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "73": {
+            "price": "17 989 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "74": {
+            "price": "18 010 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/99f2862ff72ae714edc6ad5492e6a0102021092513193036152lad36Q2YSV.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro max",
+            "model": "Apple"
+        },
+        "75": {
+            "price": "10 683 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc20211002123414213502iHSSgW9xM.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "128",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "76": {
+            "price": "11 135 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dcad45fc6dbfc4384c74c0be2b0ff6392021100214012593313TkrJI9Kegi.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "77": {
+            "price": "20 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092115574934204MvpAvsJXRQ.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "78": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d10e39a0fd59d6819bc8699e6cde8dfb2021100214074128746ez9iN0eHJs.jpg.webp",
+            "color": "Pink",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "79": {
+            "price": "11 498 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100212351751921b6rIixHIw7.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "80": {
+            "price": "10 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1f0e3dad99908345f7439f8ffabdffc42022091817535741556FlH4a5BJYq.png.webp",
+            "color": "Midnight",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "81": {
+            "price": "11 135 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cb16497057497afc1e3e0f5600d03c712021100214021341298VnX7UZFzRe.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "82": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cb16497057497afc1e3e0f5600d03c712021100214065145151ACDt6pvRP8.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "83": {
+            "price": "15 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e00da03b685a0dd18fb6a08af0923de02022091717113187379GIQpb6NvfI.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "84": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc2021100214221218829z3tyjpykra.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "85": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/18d921a0414e6f5dffbb4301386514812021100214012557881M4SlMcZylX.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "86": {
+            "price": "17 633 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 13 Pro",
+            "model": "Apple"
+        },
+        "87": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc2021100214045994866UNuyb2dP2K.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "88": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100214054997559k2kb7JcdAe.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "89": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cb16497057497afc1e3e0f5600d03c712021100214225875099aM2daQN54q.jpg.webp",
+            "color": "Midnight",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "90": {
+            "price": "16 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092115135164725jfbPZyDkVk.png.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "91": {
+            "price": "10 893 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc2021100214000696909wJULC3E7lb.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13",
+            "model": "Apple"
+        },
+        "92": {
+            "price": "12 002 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5285e568297c6f5dae82fa375c7b57cc20211002141800301090zrl9vsvP2.jpg.webp",
+            "color": "Red",
+            "ram": "4",
+            "memory": "256",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "93": {
+            "price": "23 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d09bf41544a3365a46c9077ebb5e35c32022092116155842430EzLJMtxARH.png.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "94": {
+            "price": "23 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc84362022092116101993133c7diN60xBs.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "95": {
+            "price": "16 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/fbd7939d674997cdb4692d34de8633c42022092115000940187IC7oSjNTOd.png.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "96": {
+            "price": "12 709 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96bf617042ca7db20bf7e307cbbd8f702021100214124274685JbAk1XUujw.jpg.webp",
+            "color": "Starlight",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "97": {
+            "price": "13 112 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dcad45fc6dbfc4384c74c0be2b0ff6392021100214212089290VLpfYQBfmN.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "512",
+            "brend": "iPhone 13 mini",
+            "model": "Apple"
+        },
+        "98": {
+            "price": "10 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d645920e395fedad7bbbed0eca3fe2e020220918185130140758uz0pqd2HR.png.webp",
+            "color": "Purple",
+            "ram": "apple",
+            "memory": "6",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "99": {
+            "price": "15 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2b24d495052a8ce66358eb576b8912c82022091717232796178dl6C59kZdH.jpg.webp",
+            "color": "Silver",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "100": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d645920e395fedad7bbbed0eca3fe2e02022091915021748337HPXYPBhSbj.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "101": {
+            "price": "11 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/051e4e127b92f5d98d3c79b195f2b2912022102112242645404IInfpF874P.jpg.webp",
+            "color": "Violet",
+            "ram": "apple",
+            "memory": "6",
+            "brend": "Phone 14 Plus",
+            "model": "Apple"
+        },
+        "102": {
+            "price": "20 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc84362022092115284928447mXBApm0hAa.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro max",
+            "model": "Apple"
+        },
+        "103": {
+            "price": "19 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc843620220920135616895767XArnN14mt.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "104": {
+            "price": "19 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092112153531213PQmFvTAbSj.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "105": {
+            "price": "14 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/4c56ff4ce4aaf9573aa5dff913df997a2022091716171331990R7AbZl6zBO.jpg.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "106": {
+            "price": "22 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092114051695296Prf5px43y0.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "107": {
+            "price": "13 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/9bf31c7ff062936a96d3c8bd1f8f2ff32022091915141029608imDUg8aFDt.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "108": {
+            "price": "11 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c5ab0bc60ac7929182aadd08703f1ec62022102112523392941uUeIerdS71.png.webp",
+            "color": "Midnight",
+            "ram": "apple",
+            "memory": "6",
+            "brend": "iPhone 14 Plus",
+            "model": "Apple"
+        },
+        "109": {
+            "price": "10 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/4e732ced3463d06de0ca9a15b615367720220918182117762642v2hnXJao3.png.webp",
+            "color": "Starlight",
+            "ram": "6",
+            "memory": "128",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "110": {
+            "price": "13 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d645920e395fedad7bbbed0eca3fe2e02022091916513885132Vboujd1ZmE.png.webp",
+            "color": "Purple",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "111": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c74d97b01eae257e44aa9d5bade97baf2022091913585654273bI42f4UMRS.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "112": {
+            "price": "10 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e369853df766fa44e1ed0ff613f563bd2022091818364833657t5PQaEuZo9.png.webp",
+            "color": "Red",
+            "ram": "apple",
+            "memory": "6",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "113": {
+            "price": "13 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1f0e3dad99908345f7439f8ffabdffc42022091915351637323smnq9k7q9c.png.webp",
+            "color": "Midnight",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "114": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1f0e3dad99908345f7439f8ffabdffc42022091914250465664dCdcpO7OPU.png.webp",
+            "color": "Midnight",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        },
+        "115": {
+            "price": "19 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092111533642042yZSGtpSvzC.png.webp",
+            "color": "Gold",
+            "ram": "6",
+            "memory": "512",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "116": {
+            "price": "22 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc843620220921134557744802RHgp1ATt4.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "1",
+            "brend": "iPhone 14 Pro",
+            "model": "Apple"
+        },
+        "117": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e369853df766fa44e1ed0ff613f563bd2022091914480696788dgIGHrjOzR.png.webp",
+            "color": "Red",
+            "ram": "6",
+            "memory": "256",
+            "brend": "iPhone 14",
+            "model": "Apple"
+        }
+    },
+    "vivo": {
+        "1": {
+            "price": "2 279 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022041116121376402uiBKanVMf4.jpg.webp",
+            "color": "Diamond",
+            "ram": "6",
+            "memory": "128",
+            "brend": "Y21",
+            "model": "Vivo"
+        },
+        "2": {
+            "price": "5 649 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96503b7855573712a1c44b0e8949611e2022030111395247707nqkZ77lMIR.jpg.webp",
+            "color": "Gold",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Vivo V23",
+            "model": "Vivo"
+        },
+        "3": {
+            "price": "4 924 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b84b291fa26d7dc0ba74ebe13c54d5a52021070314284740131NdgKTHocxT.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "V21",
+            "model": "Vivo"
+        },
+        "4": {
+            "price": "3 559 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6d9970b5d2b5307b24c099ccffecd9972021062617041231610YihBT8HMf3.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "V21E",
+            "model": "Vivo"
+        },
+        "5": {
+            "price": "4 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3d19bafc80be50da88a0822e1ca1bb792022030111531345751AjDyL6DXhn.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "V23e",
+            "model": "Vivo"
+        },
+        "6": {
+            "price": "4 924 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/45ff10c5f6c00d9e10639b13e7df8eb72021062616495038421PNe7BqvJhS.png.webp",
+            "color": "Violet",
+            "ram": "6",
+            "memory": "128",
+            "brend": "V21",
+            "model": "Vivo"
+        },
+        "7": {
+            "price": "3 259 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061114310079523EwDkiyn5PS.jpg.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "Y53s",
+            "model": "Vivo"
+        },
+        "8": {
+            "price": "2 529 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd3202207131413318106309Ls6E4E2J.jpg.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Y33s",
+            "model": "Vivo"
+        },
+        "9": {
+            "price": "2 517 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd320220713142157979043LRWp7VeWU.jpg.webp",
+            "color": "dream",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Y33s",
+            "model": "Vivo"
+        },
+        "10": {
+            "price": "2 645 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dc5c7986daef50c1e02ab09b442ee34f2022081614421237980tIsLSaidbM.jpg.webp",
+            "color": "mirror",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Y33s",
+            "model": "Vivo"
+        },
+        "11": {
+            "price": "4 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/182be0c5cdcd5072bb1864cdee4d3d6e2022081614463843815wyWqPgmJD9.jpg.webp",
+            "color": "Waves",
+            "ram": "6",
+            "memory": "128",
+            "brend": "V23e",
+            "model": "Vivo"
+        },
+        "12": {
+            "price": "4 009 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/bb96189d65d2ccb180529baaf5ea458b2022111911315616142EeZymbzw2r.jpg.webp",
+            "color": "8/128\u0413\u0411",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Vivo V25e",
+            "model": "Vivo"
+        },
+        "13": {
+            "price": "2 789 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5718a7a02642f93912fa5f9d9a1d610d2022111910081659415DDzYFJDKRJ.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Vivo Y35",
+            "model": "Vivo"
+        },
+        "14": {
+            "price": "1 889 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/57f608fdac207c3498959c0c59d5d4dc20220212111945165574304NQzVm5.png.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Y15s",
+            "model": "Vivo"
+        },
+        "15": {
+            "price": "2 789 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/f6fd6f5c1b7bef27f4a9a1bed1a755fb2023020709202395860qER4HSPMRI.png.webp",
+            "color": "Gold",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Vivo Y35",
+            "model": "Vivo"
+        },
+        "16": {
+            "price": "4 009 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/fdddbf1a8bd5642489ce24a3e2b31bce2023020709350372646zEBQwigBSm.png.webp",
+            "color": "Gold",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Vivo V25e",
+            "model": "Vivo"
+        },
+        "17": {
+            "price": "1 889 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ce47f696b62c2c4a576f40328dda026420220212173945813726pAXVIYB0W.jpg.webp",
+            "color": "Green",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Y15s",
+            "model": "Vivo"
+        }
+    },
+    "samsung": {
+        "1": {
+            "price": "2 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d645920e395fedad7bbbed0eca3fe2e02022090413273644935PTc82gCgbg.png.webp",
+            "color": "Blue,",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A23",
+            "model": "Samsung"
+        },
+        "2": {
+            "price": "11 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5b7a9d26fadad3953b9d6c0c531acdae2022030511064074991BjkdjJaiqF.jpg.webp",
+            "color": "Black",
+            "ram": "12",
+            "memory": "256",
+            "brend": "S22 Ultra 5G",
+            "model": "Samsung"
+        },
+        "3": {
+            "price": "2 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b6d767d2f8ed5d21a44b0e5886680cb92022041115555879069EWhxUjUrtw.jpg.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A13",
+            "model": "Samsung"
+        },
+        "4": {
+            "price": "7 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6127469778ef2594e0410222efd507fc2022030910443549926BhgszaxFnq.jpg.webp",
+            "color": "Pink",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "5": {
+            "price": "9 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/83db4451f34af0cea533e055cdb5e3172022030910383818982RQkQxvfXM9.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22+",
+            "model": "Samsung"
+        },
+        "6": {
+            "price": "7 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3b6d024826c1f02a9fd092f63921bb772022030910544054796yxemIkF0NQ.png.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "7": {
+            "price": "9 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6127469778ef2594e0410222efd507fc2022030910443549926BhgszaxFnq.jpg.webp",
+            "color": "Pink",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22+",
+            "model": "Samsung"
+        },
+        "8": {
+            "price": "4 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061812191437285dKArhI26Hb.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A73",
+            "model": "Samsung"
+        },
+        "9": {
+            "price": "11 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/7d5cf1222e335613a5ef9a35772172872022030511144882972ce9j2St8hv.jpg.webp",
+            "color": "Burgundy",
+            "ram": "12",
+            "memory": "256",
+            "brend": "S22 Ultra 5G",
+            "model": "Samsung"
+        },
+        "10": {
+            "price": "4 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061812123762750Tm8u7j5YSQ.jpg.webp",
+            "color": "Awesome",
+            "ram": "4",
+            "memory": "32",
+            "brend": "A73",
+            "model": "Samsung"
+        },
+        "11": {
+            "price": "8 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/83db4451f34af0cea533e055cdb5e3172022030910383818982RQkQxvfXM9.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "12": {
+            "price": "8 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6127469778ef2594e0410222efd507fc2022030910443549926BhgszaxFnq.jpg.webp",
+            "color": "Pink",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "13": {
+            "price": "8 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3b6d024826c1f02a9fd092f63921bb772022030910544054796yxemIkF0NQ.png.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "14": {
+            "price": "9 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3b6d024826c1f02a9fd092f63921bb772022030910544054796yxemIkF0NQ.png.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22+",
+            "model": "Samsung"
+        },
+        "15": {
+            "price": "3 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061812392272611BKjpwToljM.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A33",
+            "model": "Samsung"
+        },
+        "16": {
+            "price": "3 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061812461221778Ims4bxHOJF.jpg.webp",
+            "color": "White",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A33",
+            "model": "Samsung"
+        },
+        "17": {
+            "price": "2 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca2022041115473097431TwkKDFV5gQ.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A13",
+            "model": "Samsung"
+        },
+        "18": {
+            "price": "12 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/884e453dbcae41345b0f748e858154652022030910295853479WAXgCIooA1.jpg.webp",
+            "color": "Green",
+            "ram": "12",
+            "memory": "256",
+            "brend": "S22 Ultra 5G",
+            "model": "Samsung"
+        },
+        "19": {
+            "price": "4 639 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/965668e88bd723daf017f1378a95b17a2021081412492334164asZpWCVTsi.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A725",
+            "model": "Samsung"
+        },
+        "20": {
+            "price": "4 639 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d1fe69c84e66e01781dd1f814c4ed8c72021081412512482420rIrPAE3h5p.jpg.webp",
+            "color": "Violet",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A725",
+            "model": "Samsung"
+        },
+        "21": {
+            "price": "4 639 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/cfae098f64fc1ef64e72b51bf5a511f42021081412503219063xpnA4jF3bm.jpg.webp",
+            "color": "Blue",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A725",
+            "model": "Samsung"
+        },
+        "22": {
+            "price": "2 722 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3f37e55263170d04d5fdb5eaad5343fe20221030150252286557009OIsr3N.png.webp",
+            "color": "qualcomm",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A23",
+            "model": "Samsung"
+        },
+        "23": {
+            "price": "10 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022041816503939792CIk1qhGGho.jpg.webp",
+            "color": "green",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22+",
+            "model": "Samsung"
+        },
+        "24": {
+            "price": "3 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/45c48cce2e2d7fbdea1afc51c7c6ad262022090411102873070QYJkaW9zmA.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "A33",
+            "model": "Samsung"
+        },
+        "25": {
+            "price": "8 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20220418163757169208ObqkOdFT8.jpg.webp",
+            "color": "Green",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "26": {
+            "price": "1 714 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/182be0c5cdcd5072bb1864cdee4d3d6e2022041115293413512Cfy8V3FrgK.jpg.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "27": {
+            "price": "4 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022051215044270134yV25QvvMCd.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "28": {
+            "price": "2 218 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a516a87cfcaef229b342c437fe2b95f72022101417370448627TTv0QFWLD4.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "32",
+            "brend": "A13",
+            "model": "Samsung"
+        },
+        "29": {
+            "price": "2 622 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/4d87d81e02e944b73d98df52cef7503d2022103014001794795y2AovZwBXA.png.webp",
+            "color": "qualcomm",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A23",
+            "model": "Samsung"
+        },
+        "30": {
+            "price": "1 819 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8506c2c1199acdfc3aa82ff0b76bc72c20221217173929742450HeBQv7Kdn.png.webp",
+            "color": "qora",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A13 (SM-A135)",
+            "model": "Samsung"
+        },
+        "31": {
+            "price": "15 269 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/caa542b39f2cfe6bc760cf3a1242655e2023020915551894269RUuMtdCbdT.png.webp",
+            "color": "Qora",
+            "ram": "12",
+            "memory": "256",
+            "brend": "Galaxy S23 Ultra",
+            "model": "Samsung"
+        },
+        "32": {
+            "price": "7 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022041816341891142ioLqiQ2jzU.jpg.webp",
+            "color": "Green",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "33": {
+            "price": "2 581 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2f8e2d32f45f32511bf94dce8fc4f7522022121914233527596dYycgSQQ1O.jpg.webp",
+            "color": "ORANGE",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A23 SM-A235",
+            "model": "Samsung"
+        },
+        "34": {
+            "price": "5 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d001ad500e33167c4c95c759e97f21062023011419084898837vVgUMa7rwj.jpg.webp",
+            "color": "Mint",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A73",
+            "model": "Samsung"
+        },
+        "35": {
+            "price": "10 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022041509310433382CsEJqEQ269.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "36": {
+            "price": "9 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022041816480463026DQGjUtIenq.jpg.webp",
+            "color": "Green",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22+",
+            "model": "Samsung"
+        },
+        "37": {
+            "price": "2 622 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/053349c358f126672eec4bc9ee94fc792022103014315187147vkrmdDVkNf.png.webp",
+            "color": "qualcomm",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A23",
+            "model": "Samsung"
+        },
+        "38": {
+            "price": "6 489 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e0f42face3623320673f5bc72a3166102023011421535635569NPEQfJLLhK.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S21",
+            "model": "Samsung"
+        },
+        "39": {
+            "price": "10 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/7d0665438e81d8eceb98c1e31fca80c12022041509344144120Fa5va1Y3Nn.jpg.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "40": {
+            "price": "13 279 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3c643d2e31b582e5e2b0359a59eaa79a2023021416395599577hPqM9H6v3U.png.webp",
+            "color": "Black",
+            "ram": "12",
+            "memory": "512",
+            "brend": "Galaxy S23 Ultra",
+            "model": "Samsung"
+        },
+        "41": {
+            "price": "11 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/4af52202f77beb11ba59ce2056aa787820221220144410657434PQKdg9jgg.png.webp",
+            "color": "qualcomm",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "42": {
+            "price": "2 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd320220411154308211481Y5p3ILEmi.jpg.webp",
+            "color": "White",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A13",
+            "model": "Samsung"
+        },
+        "43": {
+            "price": "1 714 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b6d767d2f8ed5d21a44b0e5886680cb92022041115265380324J1cTK9Xf2q.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "44": {
+            "price": "1 613 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/19ac11907f4b2688ec09b96e7b9ddb70202203151124033465795yuHbAvud.jpg.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "45": {
+            "price": "1 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/654c02709b6ad05b6a35fe1a69fb3beb2022011314251289193xknxYbbgkf.jpg.webp",
+            "color": "Black",
+            "ram": "2",
+            "memory": "32",
+            "brend": "A03 Core",
+            "model": "Samsung"
+        },
+        "46": {
+            "price": "1 613 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0ec7f1edd70ec87cd2d3911d5fca44f62022032415552361007KJPAinGDiY.jpg.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "47": {
+            "price": "8 139 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0df9c5279905dd316cc6565c243d424f2021012416300156643iwhpIf7RQK.jpg.webp",
+            "color": "Gray",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy S21 5G",
+            "model": "Samsung"
+        },
+        "48": {
+            "price": "1 515 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/632471e20fe4adb133151a8a8f2ca1ca2021030416395821611eOQPTWc1YK.jpg.webp",
+            "color": "Blue",
+            "ram": "2",
+            "memory": "16",
+            "brend": "Galaxy A02",
+            "model": "Samsung"
+        },
+        "49": {
+            "price": "4 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/43baa6762fa81bb43b39c62553b2970d2022090410070815757vIGctWhk18.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "50": {
+            "price": "4 229 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ddee8f0c2ddfc3968dd26afe70673c8b2022070923392669645SpKDAGuYx3.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "51": {
+            "price": "7 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/83db4451f34af0cea533e055cdb5e3172022030910383818982RQkQxvfXM9.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "S22",
+            "model": "Samsung"
+        },
+        "52": {
+            "price": "1 819 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/56434798574680621f75a9f5209b24b12022121718212730299zd5k7Yl0ld.jpg.webp",
+            "color": "blue",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A13 (SM-A135)",
+            "model": "Samsung"
+        },
+        "53": {
+            "price": "9 157 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4e5dc4d8d251ddf1248298c6c46b9cd2021020913145192888qy6osAaBFN.jpg.webp",
+            "color": "Silver",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Galaxy S21+ 5G",
+            "model": "Samsung"
+        },
+        "54": {
+            "price": "1 916 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/47878aa056c4d19fbe141ac34f30ba472021101310480313546RPlwbOCbxE.jpeg.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A03s",
+            "model": "Samsung"
+        },
+        "55": {
+            "price": "4 229 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c9e1074f5b3f9fc8ea15d152add072942022072216480532293w5YDBal0t0.png.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "56": {
+            "price": "13 349 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2951169a7194fbeceba5f7d6fe4ed0c02021091012211628927nQIeqp79iQ.jpg.webp",
+            "color": "Black",
+            "ram": "12",
+            "memory": "256",
+            "brend": "Z Fold 2",
+            "model": "Samsung"
+        },
+        "57": {
+            "price": "1 779 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/47878aa056c4d19fbe141ac34f30ba472021101310480313546RPlwbOCbxE.jpeg.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A03s",
+            "model": "Samsung"
+        },
+        "58": {
+            "price": "6 029 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6873afdee8fe3b8ccd8c36cb378cc9222023011421174315964mvrpVv2Uqb.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "21 FE",
+            "model": "Samsung"
+        },
+        "59": {
+            "price": "4 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022090410472424929lRjkj92zj0.png.webp",
+            "color": "Blue",
+            "ram": "8",
+            "memory": "256",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "60": {
+            "price": "9 157 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/878b8def00d02d5422742352dc7f16ff2021040216331219029UtsUmGFBkc.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Galaxy S21+ 5G",
+            "model": "Samsung"
+        },
+        "61": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c45147dee729311ef5b5c3003946c48f2022111518290148874OxItdsKQR6.png.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "A047",
+            "model": "Samsung"
+        },
+        "62": {
+            "price": "6 556 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d736bb10d83a904aefc1d6ce93dc54b82022090316300144504LaRM0KL3cH.jpg.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S21 FE",
+            "model": "Samsung"
+        },
+        "63": {
+            "price": "8 139 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/eacfd7267238635e9879362b00dabcf82021022617121847539QxlH7f9Ctw.jpg.webp",
+            "color": "Violet",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy S21 5G",
+            "model": "Samsung"
+        },
+        "64": {
+            "price": "2 187 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/011e91d88ecdfa039eacd1b6be3ce67c2021103111352384472sDpNQfN30u.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "M21",
+            "model": "Samsung"
+        },
+        "65": {
+            "price": "9 157 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0df9c5279905dd316cc6565c243d424f2021012416300156643iwhpIf7RQK.jpg.webp",
+            "color": "Violet",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy S21 5G",
+            "model": "Samsung"
+        },
+        "66": {
+            "price": "9 869 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/35f4a8d465e6e1edc05f3d8ab658c551202104201531256865184gBnT5OVV.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy S21+",
+            "model": "Samsung"
+        },
+        "67": {
+            "price": "9 157 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/eacfd7267238635e9879362b00dabcf82021032114205765642iZoq5ybxAQ.jpg.webp",
+            "color": "Violet",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Galaxy S21+ 5G",
+            "model": "Samsung"
+        },
+        "68": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5a123cddd559b5a8b8e7721535f2c31f2022121717065671456XebkikR2gt.jpg.webp",
+            "color": "Black",
+            "ram": "2,",
+            "memory": "16",
+            "brend": "A04",
+            "model": "Samsung"
+        },
+        "69": {
+            "price": "1 779 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/8c5188ed38ae9af4e970c7bb99b840862021112714470976377cGbs0ecdK3.jpeg.webp",
+            "color": "White",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A03s",
+            "model": "Samsung"
+        },
+        "70": {
+            "price": "1 779 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/961a57036814c743d35dd638ea4c6c7a2021102610584399281otbx8R1LgG.jpg.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A03s",
+            "model": "Samsung"
+        },
+        "71": {
+            "price": "11 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6f3ef77ac0e3619e98159e9b6febf55720220907181719431472bbI49AlE6.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "72": {
+            "price": "1 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/07b487e48edf0aa313d38d5a69de936f2022011314315988059CcOZGEKH3S.jpg.webp",
+            "color": "Blue",
+            "ram": "2",
+            "memory": "32",
+            "brend": "A03 Core",
+            "model": "Samsung"
+        },
+        "73": {
+            "price": "2 339 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/58238e9ae2dd305d79c2ebc8c18834222022072012411020205L2anKWRlDN.png.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "M22",
+            "model": "Samsung"
+        },
+        "74": {
+            "price": "4 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/708f3cf8100d5e71834b1db77dfa15d62022090409372080438q9WH0zMD5q.jpg.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "128",
+            "brend": "A73",
+            "model": "Samsung"
+        },
+        "75": {
+            "price": "2 339 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3416a75f4cea9109507cacd8e2f2aefc2022090413500273763s0W5h3Mry4.png.webp",
+            "color": "Black",
+            "ram": "1920x1080",
+            "memory": "mediatek",
+            "brend": "F22",
+            "model": "Samsung"
+        },
+        "76": {
+            "price": "19 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c52f1bd66cc19d05628bd8bf27af3ad62022100514272810697Jk1tv1TCZl.png.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "77": {
+            "price": "1 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ee0e95249268b86ff2053bef214bfeda2023012714300740357u0vFge8ePX.png.webp",
+            "color": "Green",
+            "ram": "2",
+            "memory": "32",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "78": {
+            "price": "3 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/9e928ccab617aa9c73e1e8dc8ee7c5862022122216314336373fInqb9PeR1.jpg.webp",
+            "color": "White",
+            "ram": "3840x2160",
+            "memory": "8",
+            "brend": "A33",
+            "model": "Samsung"
+        },
+        "79": {
+            "price": "2 218 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/81c53fcd929c1446adb3e4610da526282022121816373169502G1JtSLafk1.jpg.webp",
+            "color": "White",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A13 (SM-A135)",
+            "model": "Samsung"
+        },
+        "80": {
+            "price": "1 819 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c9e226d9bfe560531bab3aeeb2c13c792022121816074312722jFfJJqIm0Z.jpg.webp",
+            "color": "oq,",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A13 (SM-A135)",
+            "model": "Samsung"
+        },
+        "81": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0e774d6a56cd899b3cdcdbf0b51273932022122017474622318Mo6UEmbfup.png.webp",
+            "color": "bora",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "82": {
+            "price": "4 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/98365930c5a8800f2f7e1464ba44d1df2022122216063165902wQS9mC41Rs.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "83": {
+            "price": "4 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e40365c548fe0a2a9141c6ea3675d1c62022121918031641471arsU7BzTrT.jpeg.webp",
+            "color": "Orange",
+            "ram": "6",
+            "memory": "128",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "84": {
+            "price": "4 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/abdfaca5a4603ba206dbcd96a9b8494220221219211049418148ESYTFpq11.jpg.webp",
+            "color": "white",
+            "ram": "qualcomm",
+            "memory": "6",
+            "brend": "A73",
+            "model": "Samsung"
+        },
+        "85": {
+            "price": "1 966 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/a722ddf90729be3e4b407b555fb407912023010715122831759djnuC2Alhp.jpg.webp",
+            "color": "Blue,",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "86": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c45147dee729311ef5b5c3003946c48f2022111518222174024RbGmFzphAO.png.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "32",
+            "brend": "A047",
+            "model": "Samsung"
+        },
+        "87": {
+            "price": "15 519 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/27362c730f9cfcb6cc4f5d3e2093113d2023021416504755258AsiLaSE5D9.png.webp",
+            "color": "Green",
+            "ram": "Qualcomm",
+            "memory": "12",
+            "brend": "S23 Ultra",
+            "model": "Samsung"
+        },
+        "88": {
+            "price": "2 249 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/089e7dd1fdb7b4b222036d0bbd3f3aca20230114184221900358MrChERVgL.jpg.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A04s",
+            "model": "Samsung"
+        },
+        "89": {
+            "price": "11 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ab80f4382b7c63c8dce0d07d6a6daa282022122015434218311xJ0r34FQNb.jpg.webp",
+            "color": "pink",
+            "ram": "qualcomm",
+            "memory": "8",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "90": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/71c0ba558aa34644f59375d03568345b20221220164309888695Jtv7vHHfF.jpg.webp",
+            "color": "qualcomm",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "91": {
+            "price": "19 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/9c01802ddb981e6bcfbec0f0516b8e352022121016482286692txyFpCzHXs.png.webp",
+            "color": "Gray-green",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "92": {
+            "price": "20 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/f67171b0084b0817ad4dc2730295ebf22022122100051074484WVfAyjclno.jpg.webp",
+            "color": "Gray-green",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "93": {
+            "price": "11 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/591fb9b075e84a46b28a4183b3b4f6ad2023020916335597237TelgKX2NtN.png.webp",
+            "color": "Qora",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S22 Ultra",
+            "model": "Samsung"
+        },
+        "94": {
+            "price": "4 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/70efdf2ec9b086079795c442636b55fb2022090411394491389sDeDk5Om0B.png.webp",
+            "color": "creamy",
+            "ram": "8",
+            "memory": "256",
+            "brend": "A53",
+            "model": "Samsung"
+        },
+        "95": {
+            "price": "6 089 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/d21dc94c1c5eb91599f49862b4eaf6562023020916484979693UXsC2v4zza.png.webp",
+            "color": "Violet",
+            "ram": "6",
+            "memory": "256",
+            "brend": "S21 FE",
+            "model": "Samsung"
+        },
+        "96": {
+            "price": "1 949 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2d4275d95fed49c788cb00f30f9493b52023010715535060807axfkzZCw5F.jpg.webp",
+            "color": "Red,",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "97": {
+            "price": "20 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/98e6bdb4fca721e1bb1123e32300e83d2022122100191212063qg517Afrc3.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "256",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "98": {
+            "price": "20 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/dd06ab8ff72738c68eb241dcf93cc52420221220234806699430h4rBPn59p.jpg.webp",
+            "color": "Beige",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "99": {
+            "price": "11 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0b7f0d3abce8239af176bda01a52e30520221220152210661579jzsSlSlvQ.png.webp",
+            "color": "qualcomm",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "100": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/bdafd97ebf8ad43c6340a3e85a210bf72022122019444992892i8UisLS2pN.jpg.webp",
+            "color": "qualcomm",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "101": {
+            "price": "1 949 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c746ea7f60b5079ccbb7d9c905536d842023010715334512438YLGXuWB4N4.jpg.webp",
+            "color": "Black,",
+            "ram": "4",
+            "memory": "128",
+            "brend": "A03",
+            "model": "Samsung"
+        },
+        "102": {
+            "price": "19 099 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ed66a6ca7d7fc6b0e7a2be596e2078fa2022122023290434553PV33Aq6rSb.jpg.webp",
+            "color": "Beige",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Galaxy Z Fold 4",
+            "model": "Samsung"
+        },
+        "103": {
+            "price": "11 399 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c685ee5d24fa778fa90a442ce67bd14b2022122016123436162LPn8GOIiqO.jpg.webp",
+            "color": "qualcomm",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "104": {
+            "price": "11 999 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1c7283d8f853d09b655d44518665b8ec202212201800162039007l923kAJz.jpg.webp",
+            "color": "pink",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Z Flip 4",
+            "model": "Samsung"
+        },
+        "105": {
+            "price": "13 809 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/93d65641ff3f1586614cf2c1ad240b6c20220903151702493921EU2ITqjjR.png.webp",
+            "color": "White",
+            "ram": "12",
+            "memory": "512",
+            "brend": "S22 Ultra",
+            "model": "Samsung"
+        },
+        "106": {
+            "price": "8 139 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/85d8ce590ad8981ca2c8286f79f599542022090717355137161VUBfPhHdUY.jpg.webp",
+            "color": "Rose",
+            "ram": "8",
+            "memory": "256",
+            "brend": "S21 5G",
+            "model": "Samsung"
+        }
+    },
+    "huawei": {
+        "1": {
+            "price": "2 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6321ba0ff3ba3.png.webp",
+            "color": "black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Nova Y70",
+            "model": "Huawei"
+        },
+        "2": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1ce927f875864094e3906a4a0b5ece682022120719000468244jjZsOD0lAL.png.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Nova Y61",
+            "model": "Huawei"
+        },
+        "3": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6cfe0e6127fa25df2a0ef2ae1067d9152022120719092741213JCY2MrFadN.png.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Nova Y61",
+            "model": "Huawei"
+        },
+        "4": {
+            "price": "2 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6347c0ef587b9.png.webp",
+            "color": "black",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Nova Y90",
+            "model": "Huawei"
+        },
+        "5": {
+            "price": "4 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//63908ea689c43.png.webp",
+            "color": "Green",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 10 SE",
+            "model": "Huawei"
+        },
+        "6": {
+            "price": "9 279 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6ea9ab1baa0efb9e19094440c317e21b2022052714260657575sMZv1e3RUF.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "P50 Pro",
+            "model": "Huawei"
+        },
+        "7": {
+            "price": "5 749 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022042915420789009LDN9SNNPx4.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Nova 9",
+            "model": "Huawei"
+        },
+        "8": {
+            "price": "3 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ec5decca5ed3d6b8079e2e7e7bacc9f22022052823103366826n7OKjI9FM7.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 9 SE",
+            "model": "Huawei"
+        },
+        "9": {
+            "price": "9 279 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c7e1249ffc03eb9ded908c236bd1996d2022110512305675039n2AtHmawtC.png.webp",
+            "color": "Gold",
+            "ram": "8",
+            "memory": "256",
+            "brend": "P50 Pro",
+            "model": "Huawei"
+        },
+        "10": {
+            "price": "3 699 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/eb160de1de89d9058fcb0b968dbbbd682022052823034171600L8R093nn5g.png.webp",
+            "color": "Blue",
+            "ram": "6",
+            "memory": "128",
+            "brend": "Nova 9 SE",
+            "model": "Huawei"
+        },
+        "11": {
+            "price": "7 665 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/aa169b49b583a2b5af89203c2b78c67c2022120715091075410C4B8pbxVND.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Nova 10 Pro",
+            "model": "Huawei"
+        },
+        "12": {
+            "price": "2 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6347c71286d1e.png.webp",
+            "color": "Green",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Nova Y90",
+            "model": "Huawei"
+        },
+        "13": {
+            "price": "1 899 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/168908dd3227b8358eababa07fcaf0912022120718430365825fODYyQIqQT.png.webp",
+            "color": "Green",
+            "ram": "3",
+            "memory": "32",
+            "brend": "Nova Y61",
+            "model": "Huawei"
+        },
+        "14": {
+            "price": "2 799 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6347c2ee5f2ee.png.webp",
+            "color": "crystal",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Y90",
+            "model": "Huawei"
+        },
+        "15": {
+            "price": "19 769 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/45fbc6d3e05ebd93369ce542e8f2322d20221215170027675293eIQ1hgOls.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "512",
+            "brend": "Mate Xs 2",
+            "model": "Huawei"
+        },
+        "16": {
+            "price": "4 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//63908ca939acb.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 10 SE",
+            "model": "Huawei"
+        },
+        "17": {
+            "price": "7 665 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//63906ce642ab5.png.webp",
+            "color": "Silver",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Nova 10 Pro",
+            "model": "Huawei"
+        },
+        "18": {
+            "price": "4 499 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//639089fa24db1.png.webp",
+            "color": "Silver",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 10 SE",
+            "model": "Huawei"
+        },
+        "19": {
+            "price": "6 354 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//639077d0d7065.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 10",
+            "model": "Huawei"
+        },
+        "20": {
+            "price": "5 749 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/705f2172834666788607efbfca35afb32022091416493728297ah1qY7oTjg.png.webp",
+            "color": "Blue",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova",
+            "model": "Huawei"
+        },
+        "21": {
+            "price": "6 354 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//639074f1b5e6d.png.webp",
+            "color": "Silver",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Nova 10 Pro",
+            "model": "Huawei"
+        },
+        "22": {
+            "price": "19 769 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b1d10e7bafa4421218a51b1e1f1b0ba22022121516515553569h3KXqJnoD9.png.webp",
+            "color": "White",
+            "ram": "8",
+            "memory": "512",
+            "brend": "Mate Xs",
+            "model": "Huawei"
+        },
+        "23": {
+            "price": "16 819 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/72a0051327d4cacbe9f39c23eaebe38a2023020915281545029vjEeQpSh1x.png.webp",
+            "color": "Qora",
+            "ram": "8",
+            "memory": "512",
+            "brend": "Mate 50 Pro",
+            "model": "Huawei"
+        },
+        "24": {
+            "price": "2 599 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6321ba0ff3ba3.png.webp",
+            "color": "black",
+            "ram": "3",
+            "memory": "64",
+            "brend": "Nova Y70",
+            "model": "Huawei"
+        },
+        "25": {
+            "price": "2 299 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/main_image/desktop//6321c0dd62b5a.png.webp",
+            "color": "crystal",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Nova Y70",
+            "model": "Huawei"
+        }
+    },
+    "xiaomi": {
+        "1": {
+            "price": "3 409 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/eccbc87e4b5ce2fe28308fd9f2a7baf320220425165622710732ul6JdJJMW.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Note 11 Pro 8/128 GB",
+            "model": "Xiaomi"
+        },
+        "2": {
+            "price": "2 672 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022042310162727535IYECnqA6nX.png.webp",
+            "color": "Gray",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Redmi Note 11S 8/128 GB",
+            "model": "Xiaomi"
+        },
+        "3": {
+            "price": "1 754 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061814025328570qt1fzIoe6b.jpg.webp",
+            "color": "Gray",
+            "ram": "3",
+            "memory": "64",
+            "brend": "10C",
+            "model": "Xiaomi"
+        },
+        "4": {
+            "price": "2 219 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/e4da3b7fbbce2345d7772b0674a318d52022080113450754702MfbeyTNXtR.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi Note 11 4/64GB",
+            "model": "Xiaomi"
+        },
+        "5": {
+            "price": "1 754 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061814065848937LAEWTyHVbw.jpg.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "64",
+            "brend": "10C",
+            "model": "Xiaomi"
+        },
+        "6": {
+            "price": "3 782 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0c3757d58858e5e4d7cd76bde35d67f42022021211084421821tnlFHlFA9g.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Mi 11 Lite",
+            "model": "Xiaomi"
+        },
+        "7": {
+            "price": "1 989 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd320220618141140167262aY2IOu3Bg.jpg.webp",
+            "color": "Gray",
+            "ram": "4",
+            "memory": "128",
+            "brend": "10C",
+            "model": "Xiaomi"
+        },
+        "8": {
+            "price": "4 841 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022092316281117815jchVVBhCx6.jpg.webp",
+            "color": "Light blue",
+            "ram": "8",
+            "memory": "256",
+            "brend": "11T Pro",
+            "model": "Xiaomi"
+        },
+        "9": {
+            "price": "1 839 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/59b90e1005a220e2ebc542eb9d950b1e2022101418110627506pqLu80dwa8.png.webp",
+            "color": "Gray",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi 10C",
+            "model": "Xiaomi"
+        },
+        "10": {
+            "price": "5 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/163a124af323c8efed6be0753c932f3e2022112315431249458j2sMCVOItX.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "12T",
+            "model": "Xiaomi"
+        },
+        "11": {
+            "price": "2 449 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0aa1883c6411f7873cb83dacb17b0afc2022093016563133063riwJ7A7HU3.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Redmi Note 11",
+            "model": "Xiaomi"
+        },
+        "12": {
+            "price": "1 629 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5d4fb735dd0ae683395c0761d38f14b82020102511173459728FNXnAbj8kF.jpg.webp",
+            "color": "Black",
+            "ram": "3",
+            "memory": "64",
+            "brend": "Redmi 9C",
+            "model": "Xiaomi"
+        },
+        "13": {
+            "price": "3 409 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1141938ba2c2b13f5505d7c424ebae5f2022112013345894115j3WTmrH7pO.png.webp",
+            "color": "Light blue",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Note 11 Pro",
+            "model": "Xiaomi"
+        },
+        "14": {
+            "price": "7 019 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/c65839a6237488d28dded2bcbd8d068f2023011816222659526UxgMco9hdQ.jpg.webp",
+            "color": "Black",
+            "ram": "12",
+            "memory": "256",
+            "brend": "12T Pro",
+            "model": "Xiaomi"
+        },
+        "15": {
+            "price": "6 769 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/b4a528955b84f584974e92d025a75d1f20221110163647234737Ue82DvNVb.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Xiaomi 12T Pro",
+            "model": "Xiaomi"
+        },
+        "16": {
+            "price": "3 782 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/7fda9657bdeac7012689ae4ec6ec0cba2022021217212416937D6qKHFTYaH.png.webp",
+            "color": "Light blue",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Mi 11 Lite 5G NE",
+            "model": "Xiaomi"
+        },
+        "17": {
+            "price": "3 893 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/71ad16ad2c4d81f348082ff6c4b207682022112014120713986SAqPSXSUk0.png.webp",
+            "color": "Light blue",
+            "ram": "8",
+            "memory": "128",
+            "brend": "11T",
+            "model": "Xiaomi"
+        },
+        "18": {
+            "price": "3 306 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/eb741284d6f71300130f459c566e054d2023011817184233826ZkhVkzffLS.jpg.webp",
+            "color": "Gray",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Mi Note 10 Pro",
+            "model": "Xiaomi"
+        },
+        "19": {
+            "price": "2 449 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6cdd60ea0045eb7a6ec44c54d29ed40220220930164624485246vDbCCznOS.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Redmi Note 11",
+            "model": "Xiaomi"
+        },
+        "20": {
+            "price": "1 259 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/0f4804858347d13ad4cddf69716297a32023011815304989690Y52Y8JmzWB.jpg.webp",
+            "color": "Black",
+            "ram": "2",
+            "memory": "32",
+            "brend": "A1 plus",
+            "model": "Xiaomi"
+        },
+        "21": {
+            "price": "1 839 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/2bb232c0b13c774965ef8558f0fbd6152022101418200085022GJqfDZYa4z.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi 10C",
+            "model": "Xiaomi"
+        },
+        "22": {
+            "price": "1 835 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1efa39bcaec6f39001491606936945362022112015584493564XRHClh6CHV.png.webp",
+            "color": "Green",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Poco",
+            "model": "Xiaomi"
+        },
+        "23": {
+            "price": "1 280 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/76b180febf918183235edf8ea08908d42020100315305649163iqq9apCqV3.jpg.webp",
+            "color": "Version)",
+            "ram": "2",
+            "memory": "32",
+            "brend": "Redmi 9A",
+            "model": "Xiaomi"
+        },
+        "24": {
+            "price": "1 966 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6eba2855fe737427df8f26109ff542d82021092120021930534l3INeWcsUp.jpg.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi 10",
+            "model": "Xiaomi"
+        },
+        "25": {
+            "price": "4 199 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/1afa34a7f984eeabdbb0a7d494132ee52022080816180244179lwShWMtw0K.png.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "Mi 12 Lite",
+            "model": "Xiaomi"
+        },
+        "26": {
+            "price": "6 656 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/65ded5353c5ee48d0b7d48c591b8f43020221127104122380395X1AW5NyJk.png.webp",
+            "color": "Blue",
+            "ram": "12",
+            "memory": "256",
+            "brend": "Mi 12",
+            "model": "Xiaomi"
+        },
+        "27": {
+            "price": "1 835 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/fa83a11a198d5a7f0bf77a1987bcd0062022112015473484699C1vdyhgrbt.png.webp",
+            "color": "Black",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Poco \u042140",
+            "model": "Xiaomi"
+        },
+        "28": {
+            "price": "8 449 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/5a7796eb06a9e5ab5d0e47c20935dddc2022042311213667678oa7El8yOxD.jpg.webp",
+            "color": "Gray",
+            "ram": "12",
+            "memory": "256",
+            "brend": "12 PRO",
+            "model": "Xiaomi"
+        },
+        "29": {
+            "price": "2 218 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/3a7e6d722784730e538a041549bddf622021102610500318711OGW8Bk6jN2.jpg.webp",
+            "color": "White",
+            "ram": "4",
+            "memory": "128",
+            "brend": "Redmi 10",
+            "model": "Xiaomi"
+        },
+        "30": {
+            "price": "1 689 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/045117b0e0a11a242b9765e79cbf113f2022091719021655460pB11v9VlOU.png.webp",
+            "color": "Gray",
+            "ram": "Xitoy",
+            "memory": "mediatek",
+            "brend": "10A",
+            "model": "Xiaomi"
+        },
+        "31": {
+            "price": "1 629 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/074ea285848d4b80ca8cd36c028722232021060511191342289Jlf2hN52us.jpg.webp",
+            "color": "Blue",
+            "ram": "3",
+            "memory": "64",
+            "brend": "Redmi 9C",
+            "model": "Xiaomi"
+        },
+        "32": {
+            "price": "1 865 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/285e19f20beded7d215102b49d5c09a020221014175832944420TFbOkPj98.png.webp",
+            "color": "Blue",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi 10A",
+            "model": "Xiaomi"
+        },
+        "33": {
+            "price": "4 841 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/6e7b33fdea3adc80ebd648fffb665bb82022112013490263418ekZWk3MbZE.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "11T Pro",
+            "model": "Xiaomi"
+        },
+        "34": {
+            "price": "1 865 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/35051070e572e47d2c26c241ab88307f2022101417460712761bThYkH8kZ0.png.webp",
+            "color": "Gray",
+            "ram": "4",
+            "memory": "64",
+            "brend": "Redmi 10A",
+            "model": "Xiaomi"
+        },
+        "35": {
+            "price": "1 689 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/82161242827b703e6acf9c726942a1e42022091718484694036Oi8gvoXnD3.jpg.webp",
+            "color": "Silver",
+            "ram": "3",
+            "memory": "32",
+            "brend": "10A",
+            "model": "Xiaomi"
+        },
+        "36": {
+            "price": "6 656 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/20479c788fb27378c2c99eadcf207e7f20230111140046980205FsAoPXWR6.png.webp",
+            "color": "Purple",
+            "ram": "12",
+            "memory": "256",
+            "brend": "Mi 12",
+            "model": "Xiaomi"
+        },
+        "37": {
+            "price": "7 639 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/7e9b540e7dbc785d53693d28b66ad6f920230207095142401531PxvZyXHzu.png.webp",
+            "color": "Blue",
+            "ram": "12",
+            "memory": "256",
+            "brend": "12T Pro",
+            "model": "Xiaomi"
+        },
+        "38": {
+            "price": "1 613 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/fa83a11a198d5a7f0bf77a1987bcd0062022112015384820650WaPZl1yDWI.png.webp",
+            "color": "Black",
+            "ram": "2",
+            "memory": "32",
+            "brend": "Poco \u042140",
+            "model": "Xiaomi"
+        },
+        "39": {
+            "price": "1 613 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/23d2e1578544b172cca332ff74bddf5f2022122514344628101sX2N5sTVUM.png.webp",
+            "color": "Green",
+            "ram": "2",
+            "memory": "32",
+            "brend": "Poco ",
+            "model": "Xiaomi"
+        },  
+        "40": {
+            "price": "4 469 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/f6fd6f5c1b7bef27f4a9a1bed1a755fb20230225095610773128uQvR0mVKw.png.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "256",
+            "brend": "X5 Pro 5G",
+            "model": "Xiaomi"
+        },
+        "41": {
+            "price": "4 539 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ee0dc655da02e88747edcd64313856a32023022509392064026w7w0vups4V.png.webp",
+            "color": "Silver",
+            "ram": "8",
+            "memory": "256",
+            "brend": "Poco X4 GT",
+            "model": "Xiaomi"
+        },
+        "42": {
+            "price": "5 319 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/ee0dc655da02e88747edcd64313856a32023022515321343791xS57TMvpup.png.webp",
+            "color": "Blue",
+            "ram": "8",
+            "memory": "256",
+            "brend": "12T",
+            "model": "Xiaomi"
+        },
+        "43": {
+            "price": "3 429 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/52ec781dc2c37e0b74b23cbe257042fd2021102312153467955tryEi9cSw3.jpg.webp",
+            "color": "Black",
+            "ram": "8",
+            "memory": "128",
+            "brend": "Xiaomi Mi 11 Lite 5G NE",
+            "model": "Xiaomi"
+        },
+        "44": {
+            "price": "3 538 000 so'm",
+            "img_url": "https://assets.asaxiy.uz/product/items/desktop/4359fd12f9dee3309c663130a03e17fa2021040812494021413JRWS6iRetx.jpg.webp",
+            "color": "Black",
+            "ram": "6",
+            "memory": "128",
+            "brend": "Xiaomi Mi 11 Lite",
+            "model": "Xiaomi"
+        }
+    }
+}
