@@ -11,4 +11,17 @@ def get_data(path: str ,brand: str):
     return table.all()
 
 data = get_data(path='db.json',brand='apple')
-print(data[0])
+
+# Add the data to the database through the API
+
+BASE_URL = 'http://localhost:8000/api/add'
+
+for idx,item in enumerate(data):
+    item['name']=item['brend'] 
+    response = requests.post(BASE_URL, json=item)
+    
+    # Print progress to the console
+    print(f'Progress: {idx+1}/{len(data)} \t Status: {response.status_code}')
+    
+    
+
